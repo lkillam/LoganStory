@@ -1,4 +1,5 @@
-Puff the Magic Dragon lived by the sea. He never left his cave, but every day a boy came to visit him to give him some delicious blueberry muffins. 
+Puff the Magic Dragon lived by the sea. He never left his cave, but every day 
+a boy came to visit him to give him some delicious blueberry muffins. 
 Blueberry muffins were his favorite.
 Then, one day, a ferocious storm happened.
 The sea became rough and rain poured from the sky.
@@ -6,3 +7,8 @@ Puff, still inside his cave, wondered what was going on.
 The storm continued for days and Puff was getting worried. 
 The boy hasn't come to visit him and he wondered if the boy was okay.
 Finally, the storm stopped.
+At first Puff cried because his best friend could be gone forever. Then, all
+of a sudden he hears footsteps coming from the mouth of the cave. To Puff's
+surprise, there was the boy! And with him carried three dozen blueberry 
+muffins he made while the storm was raging. They ate all the muffins and lived
+happily ever after.
